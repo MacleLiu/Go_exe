@@ -1,0 +1,4 @@
+This is the getFile func tets file!
+Now you get it.
+
+You are successful!
